@@ -285,9 +285,9 @@
 
 			//添加li内嵌ui
 			let guanyu = '<ul class="sub-menu">' +
-					'<li><a href="https://www.cnblogs.com/zouwangblog/articles/11157339.html "><i class="fa fa-meetup" aria-hidden="true"></i> 我？</a></li>' +
-					'<li><a href="https://www.cnblogs.com/zouwangblog/articles/11346906.html "><i class="fa fa-area-chart" aria-hidden="true"></i> 统计</a></li>' +
-					'<li><a href="https://www.cnblogs.com/zouwangblog/articles/11350777.html "><i class="fa fa-heartbeat" aria-hidden="true"></i> 监控</a></li>' +
+					'<li><a href="http:/coo0.cn"><i class="fa fa-meetup" aria-hidden="true"></i> 我？</a></li>' +
+					'<li><a href="http:/coo0.cn"><i class="fa fa-area-chart" aria-hidden="true"></i> 统计</a></li>' +
+					'<li><a href="http:/coo0.cn"><i class="fa fa-heartbeat" aria-hidden="true"></i> 监控</a></li>' +
 					'<li><a href="https://www.cnblogs.com/zouwangblog/p/11541835.html "><i class="iconfont icon-taohua" aria-hidden="true"></i> 主题</a></li>' +
 					'</ul>';
 			$('#blog_nav_myguanyu').after(guanyu);
